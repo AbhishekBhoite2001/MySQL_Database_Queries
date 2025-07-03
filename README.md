@@ -1,4 +1,4 @@
-# MySQL_Query_Examples
+#MySQL_Database_Queries
 Author: Abhishek Bhoite
 
 A collection of real-world MySQL query scripts—from basics like SELECT, INSERT, and UPDATE to joins, constraints, group functions, and subqueries.
